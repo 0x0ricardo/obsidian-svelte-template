@@ -27,6 +27,8 @@ export default tseslint.config(
 		"dist",
 		"esbuild.config.mjs",
 		"eslint.config.js",
+		"svelte.config.js",
+		"vite.config.ts",
 		"version-bump.mjs",
 		"versions.json",
 		"main.js",
